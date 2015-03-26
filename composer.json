@@ -1,5 +1,5 @@
 {
-    "name": "alemachado/template-tchanged composer package name for packagist submitionwig",
+    "name": "alemachado/template-twig",
     "type": "pw-module",
     "description": "Adds a Twig render method to Page",
     "keywords": [ "Processwire", "module", "Twig"],
