@@ -4,7 +4,7 @@
     "description": "Adds a Twig render method to Page",
     "keywords": [ "Processwire", "module", "Twig"],
     "homepage": "https://github.com/alemachado/TemplateTwig",
-    "license": "BSD-2-Clause",
+    "license": "GPL-2.0",
     "authors": [
         {
             "name": "Assets Contributors",
@@ -13,6 +13,6 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "TemplateTwig/pw-module": "dev-master"
+        "alemachado/TemplateEngineFactory": "dev-master"
     }
 }
